@@ -1,3 +1,11 @@
-# Intro to Machine Learning
+# [An Introduction to Statistical Learning (ISLP)](https://www.statlearning.com/)
 
-Reading notes and lab notebooks for *An Introduction to Statistical Learning with Applications in Python*. The study plan focuses on chapters 1–9 and 12.
+This repo is my record of working through An Introduction to Statistical Learning: my notes, code and exercises, plus any supplementary resources I found useful for learning the material.
+
+## Layout
+
+```
+1 Reading/
+2 Code/
+Transcripts/
+```
