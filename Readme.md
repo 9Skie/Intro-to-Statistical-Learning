@@ -7,5 +7,5 @@ This repo is my record of working through An Introduction to Statistical Learnin
 ```
 1 Reading/
 2 Code/
-Transcripts/
+3 Exercises/
 ```
